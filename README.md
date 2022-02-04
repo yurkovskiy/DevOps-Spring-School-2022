@@ -8,7 +8,7 @@
 Використовуйте утиліту [git](https://git-scm.com/) для того щоб склонувати відповідний репозиторій собі на комп'ютер або в будь-який інший спосіб.
 
 ```bash
-$git clone https://github.com/yurkovskiy/DevOps-Autumn-School-2021.git
+$git clone https://github.com/yurkovskiy/DevOps-Spring-School-2022.git
 ```
 
 ## Завдання #1 (script_1.sh)
